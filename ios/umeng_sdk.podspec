@@ -18,8 +18,8 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.platform = :ios, '8.0'
   s.dependency 'Flutter'
-  s.dependency 'UMCCommon'
-  s.dependency 'UMCAnalytics'
+  s.dependency 'UMCCommon' ,  '2.1.4'
+  s.dependency 'UMCAnalytics', '6.1.0'
   s.dependency 'UMCCommonLog'
 
   # Flutter.framework does not contain a i386 slice. Only x86_64 simulators are supported.
